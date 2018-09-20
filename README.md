@@ -9,6 +9,15 @@ chmod +rx jenkins.sh
 ./jenkins.sh
 ```
 
+# usage
+Access your jenkins application from your browser on `{YOUR_IP}:8080` and copy/paste your master password from the installation script
+
+Example:
+```
+Password : 
+77a13ea02f67490195c2b28872afb531
+```
+
 # What is the script doing?
 1. Install Java
 2. Download Oracle Java 8 Installer
